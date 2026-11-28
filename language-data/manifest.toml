@@ -2248,10 +2248,9 @@ url = "https://raw.githubusercontent.com/kartikm/gu-wordlist/f88caec4b10a39c1b1b
 commit = "f88caec4b10a39c1b1b1808309490d9a1b9a9e2a"
 sha256 = "40d451b6bf95a22dcc9f5a9d15e27d449ba64125cd6711d2b0786f79d7506629"
 size = 15964
-licence = "GPL-2.0-or-later AND CC-BY-SA-4.0"
+licence = "GPL-2.0-or-later"
 class = "Download-only"
 name = "ગુજરાતી"
-note = "kartikm/gu-wordlist README.md (LICENSE section): 'gu_IN.aff, gu_IN.dic: GPL-2+. gu_IN.dic also contains words selected from Gujarati Wikipedia (use `--no-wiki` for a build from gu-wordlist.txt only).' and 'wikipedia-wordlist.txt, wikipedia-frequency.tsv: Wikipedia license at the time of writing.' No LICENSE/COPYING file. Recorded with Wikipedia's text licence (CC BY-SA 4.0) as well; Download-only either way."
 
 [[file]]
 locale = "gu"
